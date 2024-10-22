@@ -1,0 +1,3 @@
+[submodule "Sample"]
+	path = Sample
+	url = https://github.com/Varshin3323/Sample.git
